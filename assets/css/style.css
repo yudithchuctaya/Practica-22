@@ -92,3 +92,45 @@ body{
 
 
 }
+.text4{
+     background-color: yellow;
+     font-weight: 10px;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 30%;
+    padding: 40px 20px;
+    display: inline-block;
+
+
+}
+.text5{
+     background-color:#ed2251; 
+     font-weight: 10px;
+    font-size: 40px;
+    margin-left: 20px;
+    padding: 40px 20px;
+    display: inline-block;
+}
+.text6{
+     background-color: yellow;
+     font-weight: 10px;
+    font-size: 40px;
+    margin-left: 20px;
+    padding: 40px 20px;
+    display: inline-block;
+
+
+}
+
+
+
+.caja3{
+   
+    background-color: transparent;
+     padding: 30px;
+     display: inline-block;
+     border: 2px solid #9332BB  ;
+      margin-top: 50px;
+      margin-left: 50px;
+}
+
